@@ -1,0 +1,22 @@
+.coffe{
+    background-color: #f0ffff;
+    width: 100%;
+    height:fit-content;
+    background-color: bisque;
+
+}
+.coffe>h1{
+    font-size: 10vh;
+}
+.coffe>h1,.coffe>p{
+    text-align: center;
+}
+@media(max-width:400px){
+    .coffe{
+    
+    height: auto;
+   
+    width: 100%;
+  }
+  .coffe>h1{font-size: 3vh;}
+  }

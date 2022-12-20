@@ -1,0 +1,62 @@
+.xx{
+    display:flex;
+    flex-direction:row; 
+    justify-content:flex-end;  
+    border-bottom: 5px white solid;
+    background-color:ghostwhite;
+    padding:40px;
+    color:crimson;
+    border: red;
+    
+    
+    
+  }
+  .ma{
+    font-size:15px;
+    text-align:center;
+    height:25px;
+    width:100px;
+    margin-top: 25px;
+    font-size:15px;
+    
+
+  }
+  #hh{
+    display:grid;
+    width:500px;
+    height:100px;
+  }
+ h1{
+   text-align: center;
+   margin-top: -600px;
+   color: white;
+   font-size: 80px;
+   text-shadow: 5px 0px 8px grey;
+
+ }
+ p{
+   text-align: center;
+   color: white;
+   font-size: 25px;
+   padding-left: 50px;
+   padding-right: 50px;
+ }
+ .hari{
+   margin-right: 250px;
+  
+ }
+ #harish{
+   width: 200px;
+   height: 5vh;
+   border-radius: 32px;
+   margin-top: 16px;
+   background-color: rgb(238, 76, 108);
+   color: white;
+   border: 3px solid black;
+
+ }
+ .navbar{
+  background-color: chartreuse;
+margin-top: 100px;
+height: 100px;
+ border: 1px solid purple;}

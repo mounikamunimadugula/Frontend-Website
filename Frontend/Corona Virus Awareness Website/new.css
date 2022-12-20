@@ -1,0 +1,26 @@
+.coder{
+
+    width: 100%;
+    height: 60vh;
+    background-image: url(./covidgif2.jpeg);
+    
+    
+
+}
+.code{
+    text-align: center;
+    
+    
+    }
+.code2{
+    display: flex;
+    
+}
+.d1>img,.d2>img,.d3>img,.d4>img,.d5>img,.d6>img{
+    border-radius: 50%;
+    margin-left: 3vh;
+}
+.d1>p,.d2>p,.d3>p,.d4>p,.d5>p,.d6>p{
+    margin-left: 12vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

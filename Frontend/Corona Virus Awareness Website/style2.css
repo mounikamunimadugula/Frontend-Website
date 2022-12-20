@@ -1,0 +1,20 @@
+.box{
+    height:500px;
+    width: 1000px;
+    border: 10px aquamarine solid;
+    padding: 2vh;
+    background-color: rgb(185, 72, 72);
+}
+@media(max-width:1024px).box{
+    height: 350px;
+}
+
+@media(max-width:768px)
+    .box{
+        height: 500px;
+    }
+
+@media(max-width:320px)
+    .box{
+        height:700px;
+    }
